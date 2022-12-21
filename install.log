@@ -1,0 +1,50 @@
+2022-12-21 19:27:21: Pre-flight initiated
+2022-12-21 19:27:21: Ensuring that required extensions are loaded
+2022-12-21 19:27:21: Ensuring that allow_url_fopen is enabled
+2022-12-21 19:27:25: Clean install OR backup
+2022-12-21 19:27:25: Ensuring that current folder is writable
+2022-12-21 19:27:25: Current operation: start-install
+2022-12-21 19:27:25: Upgrade Mode: stable
+2022-12-21 19:27:25: Checking if existing release file is present
+2022-12-21 19:27:25: Downloading Sitemagic CMS
+2022-12-21 19:27:25: Downloading new release file: http://sitemagic.org/files/downloads/sitemagic-latest.zip
+2022-12-21 19:27:38: Writing release file to: sitemagic-stable.zip
+2022-12-21 19:27:38: Current operation: extract
+2022-12-21 19:27:38: Upgrade Mode: stable
+2022-12-21 19:27:38: Ensuring that previously used extraction directories are removed
+2022-12-21 19:27:38: Extracting ZIP file
+2022-12-21 19:27:39: Making sure all source and destination files and folders are writable
+2022-12-21 19:27:39: All files and folders must be writable - file 'install.php' is not
+2022-12-21 19:28:24: Clean install OR backup
+2022-12-21 19:28:24: Ensuring that current folder is writable
+2022-12-21 19:28:24: Current operation: start-install
+2022-12-21 19:28:24: Upgrade Mode: stable
+2022-12-21 19:28:24: Checking if existing release file is present
+2022-12-21 19:28:24: Release file found - removing file
+2022-12-21 19:28:24: Downloading Sitemagic CMS
+2022-12-21 19:28:24: Downloading new release file: http://sitemagic.org/files/downloads/sitemagic-latest.zip
+2022-12-21 19:28:32: Writing release file to: sitemagic-stable.zip
+2022-12-21 19:28:37: Current operation: extract
+2022-12-21 19:28:37: Upgrade Mode: stable
+2022-12-21 19:28:37: Ensuring that previously used extraction directories are removed
+2022-12-21 19:28:37: Extracting ZIP file
+2022-12-21 19:28:38: Making sure all source and destination files and folders are writable
+2022-12-21 19:28:38: All files and folders must be writable - file 'install.php' is not
+2022-12-21 19:29:05: Clean install OR backup
+2022-12-21 19:29:05: Ensuring that current folder is writable
+2022-12-21 19:29:05: Current operation: start-install
+2022-12-21 19:29:05: Upgrade Mode: stable
+2022-12-21 19:29:05: Checking if existing release file is present
+2022-12-21 19:29:05: Release file found - removing file
+2022-12-21 19:29:05: Downloading Sitemagic CMS
+2022-12-21 19:29:05: Downloading new release file: http://sitemagic.org/files/downloads/sitemagic-latest.zip
+2022-12-21 19:29:12: Writing release file to: sitemagic-stable.zip
+2022-12-21 19:29:12: Current operation: extract
+2022-12-21 19:29:12: Upgrade Mode: stable
+2022-12-21 19:29:12: Ensuring that previously used extraction directories are removed
+2022-12-21 19:29:12: Extracting ZIP file
+2022-12-21 19:29:13: Making sure all source and destination files and folders are writable
+2022-12-21 19:29:13: Moving files from temporary folder 'Jemt-SitemagicCMS-release' to active Sitemagic installation path
+2022-12-21 19:29:13: Removing temporary folder 'Jemt-SitemagicCMS-release'
+2022-12-21 19:29:13: Cleaning up - removing release file
+2022-12-21 19:29:13: Upgrade complete - thank you!

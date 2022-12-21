@@ -20,3 +20,10 @@ Untracked files:
 	firstCommit.sh
 
 nothing added to commit but untracked files present
+[main 29a198f] Update
+ 5 files changed, 219 insertions(+)
+ create mode 100644 .htaccess
+ create mode 100644 backup.log
+ create mode 100755 backup.php
+ create mode 100755 backup.sh
+ create mode 100755 firstCommit.sh
